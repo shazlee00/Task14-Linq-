@@ -1,0 +1,14 @@
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\bin\Debug\net8.0\Task14(Linq).exe
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\bin\Debug\net8.0\Task14(Linq).deps.json
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\bin\Debug\net8.0\Task14(Linq).runtimeconfig.json
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\bin\Debug\net8.0\Task14(Linq).dll
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\bin\Debug\net8.0\Task14(Linq).pdb
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\obj\Debug\net8.0\Task14(Linq).GeneratedMSBuildEditorConfig.editorconfig
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\obj\Debug\net8.0\Task14(Linq).AssemblyInfoInputs.cache
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\obj\Debug\net8.0\Task14(Linq).AssemblyInfo.cs
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\obj\Debug\net8.0\Task14(Linq).csproj.CoreCompileInputs.cache
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\obj\Debug\net8.0\Task14(Linq).dll
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\obj\Debug\net8.0\refint\Task14(Linq).dll
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\obj\Debug\net8.0\Task14(Linq).pdb
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\obj\Debug\net8.0\Task14(Linq).genruntimeconfig.cache
+C:\PLuralSight\Learnit BootCamp\Assignments\Task14(Linq)\obj\Debug\net8.0\ref\Task14(Linq).dll
